@@ -11,7 +11,7 @@ Created on Mon Oct 19 11:23:39 2020
 import pyttsx3
 import PyPDF2
 
-book = open('D:\ineuron\interview-question-data-science--master\Data Science Interview Interview Questions(#Day28).pdf','rb')
+book = open('D:\interview-question-data-science--master\Data.pdf','rb')
 bookReader = PyPDF2.PdfFileReader(book)
 print(bookReader.getNumPages())
 #pagenumber=bookReader.getNumPages()
