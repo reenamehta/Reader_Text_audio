@@ -5,7 +5,7 @@ Created on Mon Oct 19 11:23:39 2020
 @author: reena
 """
 
-#!pip install pyttsx3
+#!pip install pyttsx3  #pyttsx3 use for the speaking part
 #!pip install PyPDF2
 
 import pyttsx3
